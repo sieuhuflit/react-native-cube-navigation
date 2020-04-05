@@ -1,0 +1,27 @@
+{
+  "name": "react-native-cube-navigation",
+  "version": "1.0.0",
+  "description": "React native cube navigation",
+  "keywords": [
+    "navigation",
+    "cube",
+    "react-native"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sieuhuflit/react-native-cube-navigation.git"
+  },
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/sieuhuflit/react-native-cube-navigation#readme",
+  "dependencies": {
+    "react": "^16.5.0"
+  },
+  "author": "Sieu Thai",
+  "license": "ISC"
+}
